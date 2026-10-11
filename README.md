@@ -16,9 +16,3 @@ I'm Akzhol, a 19-year-old frontend developer. I build fast and clean interfaces 
 - **Build & runtime:** Vite, Node.js
 - **Design & version control:** Figma, Git
 
-## github stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=illidan111&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/illidan111)
-
-[![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illidan111&layout=compact&theme=github_dark&hide_border=true)](https://github.com/illidan111?tab=repositories)
-
