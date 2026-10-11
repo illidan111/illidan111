@@ -22,6 +22,3 @@ I'm Akzhol, a 19-year-old frontend developer. I build fast and clean interfaces 
 
 [![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=illidan111&layout=compact&theme=github_dark&hide_border=true)](https://github.com/illidan111?tab=repositories)
 
-## activity
-
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=illidan111&theme=react-dark&hide_border=true)](https://github.com/illidan111)
